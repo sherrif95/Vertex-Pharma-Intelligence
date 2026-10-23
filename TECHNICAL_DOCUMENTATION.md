@@ -294,7 +294,7 @@ Use `REMOVEFILTERS('Master Calendar'[Date])` before applying `DATESBETWEEN` for 
 
 ## 8. Power BI report pages
 
-The report uses a consistent Bayer-inspired design system: dark navy navigation/header, pale background, white visual cards, blue chart accents, and distinct green, red, and magenta insight panels. Follow this link: https://app.powerbi.com/view?r=eyJrIjoiMmM0MzkyMWMtZTkwNC00OTlmLWJmOTEtOTcyNzgyYWQ5N2MzIiwidCI6ImUyMTFlYmVjLTMyM2QtNDVhNC05OGQ1LTk5NzU5MDA0YjJhNiIsImMiOjF9
+The report uses a consistent Bayer-inspired design system: dark navy navigation/header, pale background, white visual cards, blue chart accents, and distinct green, red, and magenta insight panels. Follow this link: https://app.powerbi.com/view?r=eyJrIjoiMzVkMzZhMDktN2NhOS00MDVlLTg0ZmYtNDI1MjhjMzJiODZlIiwidCI6ImUyMTFlYmVjLTMyM2QtNDVhNC05OGQ1LTk5NzU5MDA0YjJhNiIsImMiOjF9
 
 | Page | Purpose and agreed visuals |
 |---|---|
